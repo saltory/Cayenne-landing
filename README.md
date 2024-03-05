@@ -1,4 +1,4 @@
-<img width="794" alt="스크린샷 2024-03-05 오후 10 06 04" src="https://github.com/saltory/Cayenne-landing/assets/162104834/9e7b96fd-03a5-4e88-a6f8-75928a2d14bb"># Cayenne-landing
+# Cayenne-landing
 브랜드 포르쉐의 카이엔 랜딩페이지를 제작 프로젝트 (개인)
 
 Porsche_Cayenne
@@ -10,4 +10,4 @@ Porsche_Cayenne
   - 이 후 카이엔에 대해 조금씩 살펴보고 알아보니 포르쉐가 재정적으로 힘든 시기에 현금을 벌어다 주었던 효자 차량이라는 내용을 접하고 현재의 저에게 대입을 하기 시작했습니다. 재정 상태가 썩 좋지 못한 상태를 가지고 있었기에 이 프로젝트를 시작으로 제게 희망이 찾아올 것이라고 믿습니다 😁
  
 카이엔 1세대
-<img src="https://i.namu.wiki/i/OyYGWQe-MuX2YYjbvrFgwxqrE-aoX0npi2jvIC_KvDSlE1e5Yq9O3R6jh2nlGnHodO14iJl0XJpyAZ6HE-XtmlixKYyQjJ1du27AmyiMQ98yp644OqsVzWZi7gUIgsxLkevzP8GW2Bg63m-bwFM4P245htriO6n25NQCRa3Mm08.webp">
+<img src="https://i.namu.wiki/i/OyYGWQe-MuX2YYjbvrFgwxqrE-aoX0npi2jvIC_KvDSlE1e5Yq9O3R6jh2nlGnHodO14iJl0XJpyAZ6HE-XtmlixKYyQjJ1du27AmyiMQ98yp644OqsVzWZi7gUIgsxLkevzP8GW2Bg63m-bwFM4P245htriO6n25NQCRa3Mm08.webp" style="display: block; margin: 0 auto;">
